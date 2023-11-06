@@ -10,6 +10,6 @@
  
 		* [The Missing Semester of Your CS Education](预学习/2a.The_Missing_Semester_of_Your_CS_Education.md)
   
-	* [4. 复习C语言](预学习/4.%20复习C语言.md)
+	* [4 复习C语言](预学习/4.%20复习C语言.md)
 
-	* [6.搭建verilator仿真环境](预学习/6.搭建verilator仿真环境.md)
+	* [6 搭建verilator仿真环境](预学习/6.搭建verilator仿真环境.md)
