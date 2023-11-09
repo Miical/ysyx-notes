@@ -16,7 +16,9 @@
 
 	 * [7.数字电路基础实验](预学习/7.数字电路基础实验.md)
 
-		* [Chisel Bootcamp](预学习/7a.Chisel%20Bootcamp/1.%20Introduction%20to%20Scala.md)
+		* [Chisel Bootcamp](预学习/7a.Chisel%20Bootcamp/Chisel%20Bootcamp.md)
   
-			* [1. Introduction to Scala](预学习/7a.Chisel%20Bootcamp/1.%20Introduction%20to%20Scala.md)
+			* [1.Scala 介绍](预学习/7a.Chisel%20Bootcamp/1.Scala%20介绍.md)
+
+			- [2.第一个Chisel Module](预学习/7a.Chisel%20Bootcamp/2.第一个Chisel%20Module.md)
    
