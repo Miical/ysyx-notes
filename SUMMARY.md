@@ -20,6 +20,6 @@
   
 			* [1.Scala 介绍](预学习/7a.Chisel%20Bootcamp/1.Scala%20介绍.md)
 
-			- [2.1第一个Chisel Module](预学习/7a.Chisel%20Bootcamp/2.1第一个Chisel%20Module.md)
+			* [2.1第一个Chisel Module](预学习/7a.Chisel%20Bootcamp/2.1第一个Chisel%20Module.md)
    
 			* [2.2组合逻辑](预学习/7a.Chisel%20Bootcamp/2.2组合逻辑.md)
