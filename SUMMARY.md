@@ -23,3 +23,11 @@
 			* [2.1 第一个Chisel Module](预学习/7a.Chisel%20Bootcamp/2.1%20第一个Chisel%20Module.md)
    
 			* [2.2 组合逻辑](预学习/7a.Chisel%20Bootcamp/2.2%20组合逻辑.md)
+
+			* [2.3 控制流](预学习/7a.Chisel%20Bootcamp/2.3%20控制流.md)
+
+			* [2.4 时序逻辑](预学习/7a.Chisel%20Bootcamp/2.4%20时序逻辑.md)
+
+			* [2.5 综合：FIR 滤波器](预学习/7a.Chisel%20Bootcamp/2.5%20综合：FIR%20滤波器.md)
+
+			* [2.6 Chisel Test](预学习/7a.Chisel%20Bootcamp/2.6%20Chisel%20Test.md)
