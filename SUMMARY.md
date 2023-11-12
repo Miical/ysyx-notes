@@ -31,3 +31,7 @@
 			* [2.5 综合：FIR 滤波器](预学习/7a.Chisel%20Bootcamp/2.5%20综合：FIR%20滤波器.md)
 
 			* [2.6 Chisel Test](预学习/7a.Chisel%20Bootcamp/2.6%20Chisel%20Test.md)
+   
+			* [3.1 生成器参数](预学习/7a.Chisel%20Bootcamp/3.1%20生成器参数.md)
+   
+			* [3.2 生成器 Collections](预学习/7a.Chisel%20Bootcamp/3.2%20生成器%20Collections.md)
