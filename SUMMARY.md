@@ -35,3 +35,9 @@
 			* [3.1 生成器参数](预学习/7a.Chisel%20Bootcamp/3.1%20生成器参数.md)
    
 			* [3.2 生成器 Collections](预学习/7a.Chisel%20Bootcamp/3.2%20生成器%20Collections.md)
+ 
+			* [3.3 高阶函数](预学习/7a.Chisel%20Bootcamp/3.3%20高阶函数.md)
+
+			* [3.4 函数式编程](预学习/7a.Chisel%20Bootcamp/3.4%20函数式编程.md)
+ 
+			* [3.5 面向对象编程](预学习/7a.Chisel%20Bootcamp/3.5%20面向对象编程.md)
